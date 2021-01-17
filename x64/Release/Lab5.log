@@ -1,0 +1,33 @@
+﻿  Lab5.cpp
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(297,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(441,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(442,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(443,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(444,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(445,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(446,132): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(448,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(450,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(452,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(454,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(456,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(458,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(469,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(471,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(480,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(482,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(490,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(492,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(501,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(503,129): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(506,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(507,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(509,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(510,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(292): warning C4715: findSolution: значение возвращается не при всех путях выполнения
+  1 of 192 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab5.vcxproj -> C:\Users\Макс\source\repos\Lab5\x64\Release\Lab5.exe

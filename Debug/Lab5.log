@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(298,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Макс\source\repos\Lab5\Lab5\Lab5.cpp(293): warning C4715: findSolution: значение возвращается не при всех путях выполнения
+  Lab5.vcxproj -> C:\Users\Макс\source\repos\Lab5\Debug\Lab5.exe
